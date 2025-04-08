@@ -6,7 +6,8 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+A few resources to get you started if this is your first Flu![ChatGPT Image Apr 8, 2025, 05_56_17 PM](https://github.com/user-attachments/assets/2aaffde7-ece7-40e9-a398-e7b6b6c7b343)
+tter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
